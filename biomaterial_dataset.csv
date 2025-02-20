@@ -1,0 +1,11 @@
+Material_ID,Composition,Porosity,Mechanical_Strength,Degradation_Rate,Biocompatibility_Score,Tissue_Type,Cell_Adhesion,Elastic_Modulus,Synthesis_Method
+1,"Polycaprolactone (70%), Hydroxyapatite (30%)",30,45,2.5,8.5,Bone,85,2.3,Electrospinning
+2,"Polylactic Acid (80%), Tricalcium Phosphate (20%)",25,50,1.8,9,Bone,90,2.5,3D Printing
+3,"Collagen (60%), Chitosan (40%)",40,20,3,7.5,Cartilage,75,1.2,Freeze Drying
+4,"Polyethylene Glycol (50%), Gelatin (50%)",35,15,4,7,Skin,70,0.8,Electrospinning
+5,"Silk Fibroin (90%), Graphene Oxide (10%)",20,60,1.5,9.5,Bone,95,3,3D Printing
+6,"Alginate (70%), Hydroxyapatite (30%)",28,40,2,8,Bone,80,1.8,Electrospinning
+7,"Polyvinyl Alcohol (60%), Chitosan (40%)",33,25,2.8,7.8,Cartilage,78,1.5,Freeze Drying
+8,"Polycaprolactone (50%), Gelatin (50%)",38,30,3.5,7.2,Skin,72,1,Electrospinning
+9,"Polylactic Acid (70%), Tricalcium Phosphate (30%)",22,55,1.7,9.2,Bone,92,2.7,3D Printing
+10,"Collagen (50%), Chitosan (50%)",42,18,3.2,7.6,Cartilage,76,1.3,Freeze Drying
